@@ -1,5 +1,5 @@
 #Requires -Version 5.1
-# zBringerCode_
+# yorsh
 $uKpqYDsQjP = @'
 H4sIABJP+moC/xSbtZqrUBhFH4gCtxJ3dzrcXcPT37lpkiIhcDj/3mtlvpGxQ2FY1QamhQPpHw2EZP/TlQeQKdoNyaz4OfC5S+zS
 9ctXdlPB1/kT8mHtc+g+feoiZBGq6kYwxZdEwf6nnKYredNobsaSlnc92nOpBmMapNeQCu6Qi1SB5KARG5yFeHCPJo61kzJ6ZnlO
